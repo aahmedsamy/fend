@@ -205,3 +205,8 @@ addNewSection()
 addNewSection()
 
 goToTop()
+/**
+ * before implemeting this project
+ * I got ideas from youtube
+ * stackoverflow
+ * **/
